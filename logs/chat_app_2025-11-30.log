@@ -1,0 +1,109 @@
+2025-11-30 22:59:58 - INFO - OpenRouterClient initialized successfully
+2025-11-30 22:59:58 - DEBUG - Fetching available models
+2025-11-30 22:59:59 - INFO - Retrieved 330 models
+2025-11-30 23:00:11 - DEBUG - Sending message to model: openai/gpt-3.5-turbo
+2025-11-30 23:00:11 - DEBUG - Making API request
+2025-11-30 23:00:13 - ERROR - API request failed: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions
+Traceback (most recent call last):
+  File "c:\Users\Admin\51-lesson\51-lesson\src\api\openrouter.py", line 134, in send_message
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Admin\51-lesson\51-lesson\venv\Lib\site-packages\requests\models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions
+2025-11-30 23:02:43 - DEBUG - Sending message to model: openai/gpt-3.5-turbo
+2025-11-30 23:02:43 - DEBUG - Making API request
+2025-11-30 23:02:44 - ERROR - API request failed: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions
+Traceback (most recent call last):
+  File "c:\Users\Admin\51-lesson\51-lesson\src\api\openrouter.py", line 134, in send_message
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Admin\51-lesson\51-lesson\venv\Lib\site-packages\requests\models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions
+2025-11-30 23:03:48 - INFO - OpenRouterClient initialized successfully
+2025-11-30 23:03:48 - DEBUG - Fetching available models
+2025-11-30 23:03:49 - INFO - Retrieved 330 models
+2025-11-30 23:03:53 - DEBUG - Sending message to model: openai/gpt-3.5-turbo
+2025-11-30 23:03:53 - DEBUG - Making API request
+2025-11-30 23:03:54 - ERROR - API request failed: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions
+Traceback (most recent call last):
+  File "c:\Users\Admin\51-lesson\51-lesson\src\api\openrouter.py", line 134, in send_message
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Admin\51-lesson\51-lesson\venv\Lib\site-packages\requests\models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions
+2025-11-30 23:09:49 - INFO - OpenRouterClient initialized successfully
+2025-11-30 23:09:49 - DEBUG - Fetching available models
+2025-11-30 23:09:50 - INFO - Retrieved 330 models
+2025-11-30 23:09:51 - INFO - Приложение запущено
+2025-11-30 23:09:51 - INFO - Приложение запущено
+2025-11-30 23:10:17 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:10:17 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:10:17 - DEBUG - Making API request
+2025-11-30 23:10:17 - DEBUG - Making API request
+2025-11-30 23:10:24 - INFO - Successfully received response from API
+2025-11-30 23:10:24 - INFO - Successfully received response from API
+2025-11-30 23:10:24 - INFO - Performance metrics - CPU: 1.4%, Memory: 0.3%, Threads: 11, Uptime: 35s
+2025-11-30 23:10:24 - INFO - Performance metrics - CPU: 1.4%, Memory: 0.3%, Threads: 11, Uptime: 35s
+2025-11-30 23:10:24 - WARNING - Performance warning: High CPU usage: 112.2%
+2025-11-30 23:10:24 - WARNING - Performance warning: High CPU usage: 112.2%
+2025-11-30 23:10:38 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:10:38 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:10:38 - DEBUG - Making API request
+2025-11-30 23:10:38 - DEBUG - Making API request
+2025-11-30 23:10:42 - INFO - Successfully received response from API
+2025-11-30 23:10:42 - INFO - Successfully received response from API
+2025-11-30 23:10:42 - INFO - Performance metrics - CPU: 2.4%, Memory: 0.3%, Threads: 11, Uptime: 52s
+2025-11-30 23:10:42 - INFO - Performance metrics - CPU: 2.4%, Memory: 0.3%, Threads: 11, Uptime: 52s
+2025-11-30 23:10:42 - WARNING - Performance warning: High CPU usage: 113.5%
+2025-11-30 23:10:42 - WARNING - Performance warning: High CPU usage: 113.5%
+2025-11-30 23:11:08 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:11:08 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:11:08 - DEBUG - Making API request
+2025-11-30 23:11:08 - DEBUG - Making API request
+2025-11-30 23:11:10 - INFO - Successfully received response from API
+2025-11-30 23:11:10 - INFO - Successfully received response from API
+2025-11-30 23:11:10 - INFO - Performance metrics - CPU: 1.4%, Memory: 0.3%, Threads: 8, Uptime: 80s
+2025-11-30 23:11:10 - INFO - Performance metrics - CPU: 1.4%, Memory: 0.3%, Threads: 8, Uptime: 80s
+2025-11-30 23:11:10 - WARNING - Performance warning: High CPU usage: 116.6%
+2025-11-30 23:11:10 - WARNING - Performance warning: High CPU usage: 116.6%
+2025-11-30 23:11:25 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:11:25 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:11:25 - DEBUG - Making API request
+2025-11-30 23:11:25 - DEBUG - Making API request
+2025-11-30 23:11:28 - INFO - Successfully received response from API
+2025-11-30 23:11:28 - INFO - Successfully received response from API
+2025-11-30 23:11:28 - INFO - Performance metrics - CPU: 2.5%, Memory: 0.3%, Threads: 8, Uptime: 98s
+2025-11-30 23:11:28 - INFO - Performance metrics - CPU: 2.5%, Memory: 0.3%, Threads: 8, Uptime: 98s
+2025-11-30 23:11:28 - WARNING - Performance warning: High CPU usage: 119.4%
+2025-11-30 23:11:28 - WARNING - Performance warning: High CPU usage: 119.4%
+2025-11-30 23:11:45 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:11:45 - DEBUG - Sending message to model: meta-llama/llama-3.3-70b-instruct:free
+2025-11-30 23:11:45 - DEBUG - Making API request
+2025-11-30 23:11:45 - DEBUG - Making API request
+2025-11-30 23:11:47 - INFO - Successfully received response from API
+2025-11-30 23:11:47 - INFO - Successfully received response from API
+2025-11-30 23:11:47 - INFO - Performance metrics - CPU: 2.1%, Memory: 0.3%, Threads: 8, Uptime: 118s
+2025-11-30 23:11:47 - INFO - Performance metrics - CPU: 2.1%, Memory: 0.3%, Threads: 8, Uptime: 118s
+2025-11-30 23:11:47 - WARNING - Performance warning: High CPU usage: 112.0%
+2025-11-30 23:11:47 - WARNING - Performance warning: High CPU usage: 112.0%
+2025-11-30 23:12:33 - DEBUG - Sending message to model: google/gemma-3-27b-it:free
+2025-11-30 23:12:33 - DEBUG - Sending message to model: google/gemma-3-27b-it:free
+2025-11-30 23:12:33 - DEBUG - Making API request
+2025-11-30 23:12:33 - DEBUG - Making API request
+2025-11-30 23:12:35 - INFO - Successfully received response from API
+2025-11-30 23:12:35 - INFO - Successfully received response from API
+2025-11-30 23:12:35 - INFO - Performance metrics - CPU: 0.9%, Memory: 0.3%, Threads: 5, Uptime: 165s
+2025-11-30 23:12:35 - INFO - Performance metrics - CPU: 0.9%, Memory: 0.3%, Threads: 5, Uptime: 165s
+2025-11-30 23:12:55 - DEBUG - Sending message to model: google/gemma-3-27b-it:free
+2025-11-30 23:12:55 - DEBUG - Sending message to model: google/gemma-3-27b-it:free
+2025-11-30 23:12:55 - DEBUG - Making API request
+2025-11-30 23:12:55 - DEBUG - Making API request
+2025-11-30 23:12:59 - INFO - Successfully received response from API
+2025-11-30 23:12:59 - INFO - Successfully received response from API
+2025-11-30 23:12:59 - INFO - Performance metrics - CPU: 1.7%, Memory: 0.3%, Threads: 5, Uptime: 190s
+2025-11-30 23:12:59 - INFO - Performance metrics - CPU: 1.7%, Memory: 0.3%, Threads: 5, Uptime: 190s
+2025-11-30 23:12:59 - WARNING - Performance warning: High CPU usage: 117.0%
+2025-11-30 23:12:59 - WARNING - Performance warning: High CPU usage: 117.0%
