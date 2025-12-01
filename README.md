@@ -34,3 +34,7 @@ OpenAI, Anthropic, Google, Mistral, Meta, Grok, Gemini, Claude, Llama 3, Mixtral
 | ![Вход по PIN](https://github.com/user-attachments/assets/817f066e-9871-4f3c-b34b-4aa6a0d8bf07) | ![Чат](https://github.com/user-attachments/assets/3dccc192-5cb0-4dd9-915b-2c207aa772d0) |
 
 </div>
+
+> Более подробная инструкция использования этого кода расположена по
+> пути **openrouter-chat-authorization/51-lesson/** в файлах
+> **README.md** и **INSTALL.md**.
