@@ -3,7 +3,7 @@
 ## Что такое OpenRouter?
 
 **OpenRouter.ai** — это единая точка доступа к десяткам самых мощных ИИ-моделей от разных провайдеров:  
-OpenAI, Anthropic, Google, Mistral, Meta, Grok, Gemini, Claude, Llama 3, Mixtral и многим другим — через **один API-ключ**.
+OpenAI, Anthropic, Google, Mistral, Grok, Gemini, Claude, Llama 3, Mixtral и многим другим — через **один API-ключ**.
 
 Особенно удобно для:
 - Тестирования и сравнения разных моделей;
