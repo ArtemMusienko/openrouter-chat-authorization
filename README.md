@@ -34,18 +34,14 @@ The application implements:
 
 ## Example of code operation
 
-<div  align="center">
+<div align="center">
 
 | First launch — entering the API key | The PIN code has been created |
-
-|--------------------------------|---------------|
-
+|:---:|:---:|
 | ![Ввод ключа](https://github.com/user-attachments/assets/d9565c37-81df-4c22-a240-2532f0e1fc3d) | ![PIN-код](https://github.com/user-attachments/assets/c5e7f2ec-c726-4bb8-9ae6-d082bf966a4b) |
 
 | Main Chat | Login by PIN code |
-
-|--------------------|--------------|
-
+|:---:|:---:|
 | ![Вход по PIN](https://github.com/user-attachments/assets/817f066e-9871-4f3c-b34b-4aa6a0d8bf07) | ![Чат](https://github.com/user-attachments/assets/3dccc192-5cb0-4dd9-915b-2c207aa772d0) |
 
 </div>
